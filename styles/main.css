@@ -38,7 +38,7 @@
 }
 
 @keyframes bgPlayerFront{
-   0%,100% {background-image: url(../assets/sprites.png), url(../assets/ground.png);}
+   0%,100% {background-image: url(../assets/player-front.png), url(../assets/ground.png);}
    50% {background-image: url(../assets/player-front2.png), url(../assets/ground.png);}
 }
 
@@ -48,7 +48,7 @@
 }
 
 @keyframes bgPlayerLeft{
-   0%,100%  {background-image: url(../assets/sprites.png), url(../assets/ground.png);}
+   0%,100%  {background-image: url(../assets/player-left.png), url(../assets/ground.png);}
    50% {background-image: url(../assets/player-left2.png), url(../assets/ground.png);}
 }
 
@@ -58,7 +58,7 @@
 }
 
 @keyframes bgPlayerRight{
-   0%,100%  {background-image: url(../assets/sprites.png), url(../assets/ground.png);}
+   0%,100%  {background-image: url(../assets/player-right.png), url(../assets/ground.png);}
    50% {background-image: url(../assets/player-right2.png), url(../assets/ground.png);}
 }
 
@@ -68,7 +68,7 @@
 }
 
 @keyframes bgPlayerUp{
-   0%,100%  {background-image: url(../assets/sprites.png), url(../assets/ground.png);}
+   0%,100%  {background-image: url(../assets/player-up.png), url(../assets/ground.png);}
    50% {background-image: url(../assets/player-up2.png), url(../assets/ground.png);}
 }
 
