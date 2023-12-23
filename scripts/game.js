@@ -41,7 +41,7 @@ function buildLevel(level) {
             const char = levels[level].map[i].charAt(j);
 
             switch (char) {
-            case "\ud83e":
+            case "o":
                 $(str).append("<div class='square sol joueur joueurFront'></div>");
                 break;
             case "\uddcd":
